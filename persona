@@ -3,4 +3,7 @@ private void persona
   public string nombre();
 public int dni();
 
+private.out.print ("este es un mensaje de locos:");
+
+
 }
